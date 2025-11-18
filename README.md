@@ -10,7 +10,9 @@ MINervalAI is a tokenized AI Influencer built on BNB Chain and powered by Xeleb 
   Frontend: React / Next.js + ethers.js / web3.js / wagmi/
   
   Development: Hardhat, OpenZeppelin libraries
- #Supported Networks
+ ##  Supported Networks
+ 
   BNB Smart Chain Mainnet (Chain ID: 56)
+  
 ## Contract Addresses
 xxx
